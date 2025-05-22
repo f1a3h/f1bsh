@@ -13,7 +13,9 @@
         ]
     },
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
-    "uninstaller": "\"$dir\\uninstall.exe\"",
+    "uninstaller": {
+        "file": "uninstaller.exe"
+    },
     "checkver": {
         "url": "https://github.com/rime/weasel/releases",
         "regex": "/rime/weasel/releases/download/[\\d.]+/weasel-([\\d.]+)-installer.exe"
