@@ -16,7 +16,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/ximu3/vnite"
+        "url": "https://github.com/ximu3/vnite/releases",
+        "regex": "v([\\d.(-alpha)]+)"
     },
     "autoupdate": {
         "url": "https://github.com/ximu3/vnite/releases/download/v$version/vnite-$version-setup.exe#/dl.7z"
