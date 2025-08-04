@@ -21,3 +21,4 @@ Current app list:
 |   pixpin    |                                                         屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能                                                         |
 | zen-browser |                           Zen is a firefox-based browser with the aim of pushing your productivity to a new level!                           |
 |   quicker   |                                                              指尖工具箱                                                                      |
+|  VocabSieve |                                             Simple sentence mining tool for language learning                                                |
