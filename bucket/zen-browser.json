@@ -1,16 +1,16 @@
 {
     "homepage": "https://zen-browser.app/",
     "license": "MPL-2.0",
-    "version": "1.12.10b",
+    "version": "1.14.9b",
     "description": "Zen is a firefox-based browser with the aim of pushing your productivity to a new level!",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zen-browser/desktop/releases/download/1.12.10b/zen.installer.exe#/dl.7z",
-            "hash": "f1084277d45a2d8ffa3a8d06cb531d43e2080b759117fb501c5842fdddc2611e"
+            "url": "https://github.com/zen-browser/desktop/releases/download/1.14.9b/zen.installer.exe#/dl.7z",
+            "hash": "03e90d00b1f78336e572789210344d337a03e9468a6a8529bacb3a4209a11102"
         },
         "arm64": {
-            "url": "https://github.com/zen-browser/desktop/releases/download/1.12.10b/zen.installer-arm64.exe#/dl.7z",
-            "hash": "b1bdcd3d02e762696b7cf9627c132933a3f4f834a3c47f227a6d8848013ba969"
+            "url": "https://github.com/zen-browser/desktop/releases/download/1.14.9b/zen.installer-arm64.exe#/dl.7z",
+            "hash": "4c578b579a43fc1ff04fbbcfdbc56ab93ab907256c16d14296724454d5bc6004"
         }
     },
     "extract_dir": "core",
