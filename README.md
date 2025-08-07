@@ -16,9 +16,9 @@ Current app list:
 
 |  Manifest   |                                                                 Description                                                                  |
 | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|    vnite    | A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports. |
-|   pixpin    |                                                         屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能                                                         |
-| zen-browser |                           Zen is a firefox-based browser with the aim of pushing your productivity to a new level!                           |
-|   quicker   |                                                              指尖工具箱                                                                      |
-|  VocabSieve |                                             Simple sentence mining tool for language learning                                                |
-|   RemNote   |                                        Build your Knowledge Base anywhere and without distractions.                                          |
+|      vnite     | A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports. |
+|      pixpin    |                                                         屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能                                                         |
+|   zen-browser  |                           Zen is a firefox-based browser with the aim of pushing your productivity to a new level!                           |
+|     quicker    |                                                              指尖工具箱                                                                      |
+|    VocabSieve  |                                             Simple sentence mining tool for language learning                                                |
+| RemNote (Beta) |                                        Build your Knowledge Base anywhere and without distractions.                                          |
