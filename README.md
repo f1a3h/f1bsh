@@ -21,3 +21,4 @@ Current app list:
 | zen-browser |                           Zen is a firefox-based browser with the aim of pushing your productivity to a new level!                           |
 |   quicker   |                                                              指尖工具箱                                                                      |
 |  VocabSieve |                                             Simple sentence mining tool for language learning                                                |
+|   RemNote   |                                        Build your Knowledge Base anywhere and without distractions.                                          |
