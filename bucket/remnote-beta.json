@@ -25,10 +25,22 @@
         ]
     ],
     "checkver": {
-        "url": "https://feedback.remnote.com/rss/changelog.xml",
-        "regex": "<title>.*?([\\d\\.]+).*?</title>"
+        "script": [
+            "$redirectUrl = 'https://backend-beta.remnote.com/desktop/windows'",
+            "try {",
+            "    Invoke-WebRequest -Uri $redirectUrl -MaximumRedirection 0 -UseBasicParsing -ErrorAction Stop",
+            "}",
+            "catch {",
+            "    $dl_url = $_.Exception.Response.Headers.Location.AbsoluteUri",
+            "}",
+            "if ($dl_url -match '.*RemNote-(.+)-Setup.*') {",
+            "    $ver = $matches[1]",
+            "}",
+            "$ver"
+        ],
+        "regex": "(.+)"
     },
     "autoupdate": {
-        "url": "https://download2.remnote.io/remnote-desktop2/RemNote-$version-beta-Setup.exe#/dl.7z"
+        "url": "https://download2.remnote.io/remnote-desktop2/RemNote-$version-Setup.exe#/dl.7z"
     }
 }
