@@ -22,3 +22,4 @@ Current app list:
 |     quicker    |                                                              指尖工具箱                                                                      |
 |    VocabSieve  |                                             Simple sentence mining tool for language learning                                                |
 | RemNote (Beta) |                                        Build your Knowledge Base anywhere and without distractions.                                          |
+|  neteasemusic  |                     网易云音乐                        |
