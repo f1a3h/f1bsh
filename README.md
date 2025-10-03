@@ -23,3 +23,4 @@ Current app list:
 |    VocabSieve  |                                             Simple sentence mining tool for language learning                                                |
 | RemNote (Beta) |                                        Build your Knowledge Base anywhere and without distractions.                                          |
 |  neteasemusic  |                     网易云音乐                        |
+|     dida365    |           Stay Organized, Stay Creative.            |
