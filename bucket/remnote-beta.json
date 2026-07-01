@@ -2,9 +2,9 @@
     "homepage": "https://beta.remnote.com/",
     "description": "Build your Knowledge Base anywhere and without distractions.",
     "license": "unknown",
-    "version": "1.26.29-beta",
-    "url": "https://download2.remnote.io/remnote-desktop2/RemNote-1.26.29-beta-Setup.exe#/dl.7z",
-    "hash": "7f7aaec8afd0b7801b8a56b4349b1b99db113de7ec6b40eda8fdf2083f1563e9",
+    "version": "1.26.30-beta",
+    "url": "https://download2.remnote.io/remnote-desktop2/RemNote-1.26.30-beta-Setup.exe#/dl.7z",
+    "hash": "0a1b355ffbd6917ad347fc56d86363f8bd881b2aac5f1b4627f9d1cbb0941ebc",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
