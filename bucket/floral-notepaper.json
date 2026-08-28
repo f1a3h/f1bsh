@@ -1,0 +1,23 @@
+{
+    "version": "1.1.0",
+    "description": "A lightweight, elegant, and modern local sticky-note application with Markdown support.",
+    "homepage": "https://github.com/Achilng/floral-notepaper",
+    "license": "MIT",
+    "url": "https://github.com/Achilng/floral-notepaper/releases/download/v1.1.0/floral-notepaper_1.1.0.exe#/floral-notepaper.exe",
+    "hash": "6fc1f4e82add7fff01d5122512045a483d534312a9b4536a7a5dde7f30da1bf1",
+    "env_set": {
+        "FLORAL_NOTEPAPER_CONFIG_DIR": "$persist_dir\\config",
+        "FLORAL_NOTEPAPER_DATA_DIR": "$persist_dir\\data"
+    },
+    "bin": "floral-notepaper.exe",
+    "shortcuts": [
+        [
+            "floral-notepaper.exe",
+            "Floral Notepaper"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Achilng/floral-notepaper/releases/download/v$version/floral-notepaper_$version.exe#/floral-notepaper.exe"
+    }
+}

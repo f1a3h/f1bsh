@@ -24,3 +24,4 @@ Current app list:
 | RemNote (Beta) |                                        Build your Knowledge Base anywhere and without distractions.                                          |
 |  neteasemusic  |                     网易云音乐                        |
 |     dida365    |           Stay Organized, Stay Creative.            |
+| floral-notepaper | A lightweight, elegant, and modern local sticky-note application with Markdown support. |
